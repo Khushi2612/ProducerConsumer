@@ -7,7 +7,7 @@ public class ProdConsMain {
 	
 	//added comments
 	public static void main(String args[]){
-		 
+		int f=9;
 		String s="abc";Class<Long> c=Long.class;
 		StringBuilder sb=new StringBuilder();
 		byte[] b=s.getBytes();
