@@ -41,6 +41,7 @@ public void run(){
 				ProdConsMain.setCount(ProdConsMain.getCount()-1);
 				System.out.println(Thread.currentThread().getName()+" is going to notifyAll()...");
 				arr.notifyAll();
+				//testing consprod
 		}
 		
 	}
