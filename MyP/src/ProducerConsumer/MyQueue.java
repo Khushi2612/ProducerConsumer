@@ -12,5 +12,6 @@ public class MyQueue {
 	
 	public float f;
 	public double d;
+	//testing MyQueue
 }
 
