@@ -1,11 +1,11 @@
-package ProducerConsumer;
+package ProducerConsumer;//my conflict test
 
 public class Consumer implements Runnable {
 int i=-1;
 int arr[],size;
 
 
-Consumer(int arr[],int size){
+Consumer(int arr[],int size){//my conf change2
 	this.arr=arr;
 	this.size=size;
 }
