@@ -1,4 +1,4 @@
-package ProducerConsumer;
+package ProducerConsumer;//conflict test
 
 public class Consumer implements Runnable {
 int i=-1;
