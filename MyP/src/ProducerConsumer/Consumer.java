@@ -1,4 +1,6 @@
+
 package ProducerConsumer;//my conflict test
+
 
 public class Consumer implements Runnable {
 int i=-1;
@@ -49,3 +51,4 @@ public void run(){
 
 }
 //one more change
+//another change
